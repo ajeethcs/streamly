@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test3",
-    "slug": "test3",
+    "name": "streamly",
+    "slug": "streamly",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
